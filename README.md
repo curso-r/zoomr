@@ -9,10 +9,10 @@
 The goal of zoomr is to …
 
 -   Ideias de funções:
-    -   Função de autenticação
-    -   Função para buscar as chamadas
-    -   Função para criar uma chamada
-    -   Função para exportar um .ics de uma chamada existente
+    -   Função de autenticação - 0%
+    -   Função para buscar as chamadas - falta tratar erros
+    -   Função para criar uma chamada - 0%
+    -   Função para exportar um .ics de uma chamada existente - 0%
 
 ## Installation
 
